@@ -13,4 +13,5 @@
  -  component 에 대한 이해
  - state의 개념 
  - life cycle method (Mounting, Updating, Unmounting, component)
+ - route에 대한 이해
  - gh-page 
